@@ -1,5 +1,0 @@
-package kotlinCoroutines
-
-fun main(){
-
-}
