@@ -1,9 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6e1c186f-287b-4a79-af94-054af4df8496" name="Default Changelist" comment="">
+    <list default="true" id="6e1c186f-287b-4a79-af94-054af4df8496" name="Default Changelist" comment="Suspending Function">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/KoltinCoroutines/META-INF/KoltinCoroutines.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KoltinCoroutines/META-INF/KoltinCoroutines.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KoltinCoroutines/kotlinCoroutines/SuspendingFunctionsKt$doeSomethingOne$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KoltinCoroutines/kotlinCoroutines/SuspendingFunctionsKt$doeSomethingTwo$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KoltinCoroutines/kotlinCoroutines/SuspendingFunctionsKt$main$1$time$1$one$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KoltinCoroutines/kotlinCoroutines/SuspendingFunctionsKt$main$1$time$1$two$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KoltinCoroutines/kotlinCoroutines/SuspendingFunctionsKt$main$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KoltinCoroutines/kotlinCoroutines/SuspendingFunctionsKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/kotlinCoroutines/SuspendingFunctions.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/kotlinCoroutines/SuspendingFunctions.kt" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,15 +23,12 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/kotlinCoroutines/SuspendingFunctions.kt">
+        <entry file="file://$PROJECT_DIR$/src/kotlinCoroutines/Dispatchers.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="294">
-              <caret line="23" selection-start-line="23" selection-end-line="23" />
-              <folding>
-                <element signature="e#26#92#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="374">
+              <caret line="22" column="1" lean-forward="true" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -48,6 +52,7 @@
         <option value="$PROJECT_DIR$/src/KotlinCoroutines/CoroutinesPipelines.kt" />
         <option value="$PROJECT_DIR$/src/kotlinCoroutines/CoroutinesPipelines.kt" />
         <option value="$PROJECT_DIR$/src/kotlinCoroutines/SuspendingFunctions.kt" />
+        <option value="$PROJECT_DIR$/src/kotlinCoroutines/Dispatchers.kt" />
       </list>
     </option>
   </component>
@@ -65,8 +70,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -89,6 +92,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -120,7 +125,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.kotlinCoroutines.SuspendingFunctionsKt">
+  <component name="RunManager" selected="Kotlin.kotlinCoroutines.DispatchersKt">
     <configuration name="kotlinCoroutines.CoroutinesPipelinesKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="KoltinCoroutines" />
       <option name="VM_PARAMETERS" />
@@ -129,6 +134,19 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="MAIN_CLASS_NAME" value="kotlinCoroutines.CoroutinesPipelinesKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="kotlinCoroutines.DispatchersKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="KoltinCoroutines" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="kotlinCoroutines.DispatchersKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -149,6 +167,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.kotlinCoroutines.DispatchersKt" />
         <item itemvalue="Kotlin.kotlinCoroutines.SuspendingFunctionsKt" />
         <item itemvalue="Kotlin.kotlinCoroutines.CoroutinesPipelinesKt" />
       </list>
@@ -179,7 +198,7 @@
     <frame x="-8" y="-8" width="1382" height="744" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21331316" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21633889" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -188,13 +207,13 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3289689" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3289689" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" weight="0.3289689" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.3289689" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -229,13 +248,7 @@
     <entry file="file://$PROJECT_DIR$/src/kotlinCoroutines/CoroutinesTimeOut.kt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/kotlinCoroutines/New.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kotlinCoroutines/New.kt" />
     <entry file="file://$PROJECT_DIR$/src/kotlinCoroutines/CoroutinesTwo.kt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -253,11 +266,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/kotlinCoroutines/SuspendingFunctions.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
-          <caret line="23" selection-start-line="23" selection-end-line="23" />
-          <folding>
-            <element signature="e#26#92#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="90">
+          <caret line="11" column="16" selection-start-column="2" selection-end-line="35" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kotlinCoroutines/Dispatchers.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="1" lean-forward="true" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
         </state>
       </provider>
     </entry>
