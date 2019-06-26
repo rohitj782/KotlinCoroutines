@@ -7,11 +7,10 @@
     <list default="true" id="6e1c186f-287b-4a79-af94-054af4df8496" name="Default Changelist" comment="Suspending Function">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/KoltinCoroutines/META-INF/KoltinCoroutines.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KoltinCoroutines/META-INF/KoltinCoroutines.kotlin_module" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KoltinCoroutines/kotlinCoroutines/Coroutines_ChildrensKt$main$1$request$1$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KoltinCoroutines/kotlinCoroutines/Coroutines_ChildrensKt$main$1$request$1$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KoltinCoroutines/kotlinCoroutines/Coroutines_ChildrensKt$main$1$request$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KoltinCoroutines/kotlinCoroutines/Coroutines_ChildrensKt$main$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KoltinCoroutines/kotlinCoroutines/Coroutines_ChildrensKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KoltinCoroutines/kotlinCoroutines/Activity$doSomething$1$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KoltinCoroutines/kotlinCoroutines/Activity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KoltinCoroutines/kotlinCoroutines/Coroutine_ScopeKt$main$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KoltinCoroutines/kotlinCoroutines/Coroutine_ScopeKt.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -25,11 +24,38 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/kotlinCoroutines/Coroutine Scope.kt">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/kotlinCoroutines/ExceptionHandling.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="328">
-              <caret line="30" column="1" lean-forward="true" selection-start-line="30" selection-start-column="1" selection-end-line="30" selection-end-column="1" />
+            <state relative-caret-position="68">
+              <caret line="4" column="28" selection-start-column="2" selection-end-line="21" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/kotlinCoroutines/ExceptionHandling2.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="18" column="7" lean-forward="true" selection-start-column="2" selection-end-line="28" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/kotlinCoroutines/CancellationAndException.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="226">
+              <caret line="15" column="22" lean-forward="true" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/kotlinCoroutines/CancellationAndException2.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="16" column="33" lean-forward="true" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
             </state>
           </provider>
         </entry>
@@ -57,10 +83,14 @@
         <option value="$PROJECT_DIR$/src/kotlinCoroutines/Debugging Coroutines.kt" />
         <option value="$PROJECT_DIR$/src/kotlinCoroutines/Coroutines Childrens.kt" />
         <option value="$PROJECT_DIR$/src/kotlinCoroutines/Coroutine Scope.kt" />
+        <option value="$PROJECT_DIR$/src/kotlinCoroutines/ExceptionHandling.kt" />
+        <option value="$PROJECT_DIR$/src/kotlinCoroutines/ExceptionHandling2.kt" />
+        <option value="$PROJECT_DIR$/src/kotlinCoroutines/CancellationAndException.kt" />
+        <option value="$PROJECT_DIR$/src/kotlinCoroutines/CancellationAndException2.kt" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1382" />
@@ -74,7 +104,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -93,10 +122,15 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="kotlinCoroutines" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="KoltinCoroutines" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -129,7 +163,33 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.kotlinCoroutines.Coroutine_ScopeKt">
+  <component name="RunManager" selected="Kotlin.kotlinCoroutines.CancellationAndException2Kt">
+    <configuration name="kotlinCoroutines.CancellationAndException2Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="KoltinCoroutines" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="kotlinCoroutines.CancellationAndException2Kt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="kotlinCoroutines.CancellationAndExceptionKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="KoltinCoroutines" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="kotlinCoroutines.CancellationAndExceptionKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="kotlinCoroutines.Coroutine_ScopeKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="KoltinCoroutines" />
       <option name="VM_PARAMETERS" />
@@ -143,53 +203,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="kotlinCoroutines.Coroutines_ChildrensKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="kotlinCoroutines.ExceptionHandling2Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="KoltinCoroutines" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="kotlinCoroutines.Coroutines_ChildrensKt" />
+      <option name="MAIN_CLASS_NAME" value="kotlinCoroutines.ExceptionHandling2Kt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="kotlinCoroutines.Debugging_CoroutinesKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="kotlinCoroutines.ExceptionHandlingKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="KoltinCoroutines" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="kotlinCoroutines.Debugging_CoroutinesKt" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="kotlinCoroutines.DispatchersKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="KoltinCoroutines" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="kotlinCoroutines.DispatchersKt" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="kotlinCoroutines.SuspendingFunctionsKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="KoltinCoroutines" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="kotlinCoroutines.SuspendingFunctionsKt" />
+      <option name="MAIN_CLASS_NAME" value="kotlinCoroutines.ExceptionHandlingKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -197,11 +231,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.kotlinCoroutines.CancellationAndException2Kt" />
+        <item itemvalue="Kotlin.kotlinCoroutines.CancellationAndExceptionKt" />
+        <item itemvalue="Kotlin.kotlinCoroutines.ExceptionHandling2Kt" />
+        <item itemvalue="Kotlin.kotlinCoroutines.ExceptionHandlingKt" />
         <item itemvalue="Kotlin.kotlinCoroutines.Coroutine_ScopeKt" />
-        <item itemvalue="Kotlin.kotlinCoroutines.Coroutines_ChildrensKt" />
-        <item itemvalue="Kotlin.kotlinCoroutines.Debugging_CoroutinesKt" />
-        <item itemvalue="Kotlin.kotlinCoroutines.DispatchersKt" />
-        <item itemvalue="Kotlin.kotlinCoroutines.SuspendingFunctionsKt" />
       </list>
     </recent_temporary>
   </component>
@@ -230,7 +264,7 @@
     <frame x="-8" y="-8" width="1382" height="744" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2193646" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22239032" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -329,8 +363,50 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/kotlinCoroutines/Coroutine Scope.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="328">
-          <caret line="30" column="1" lean-forward="true" selection-start-line="30" selection-start-column="1" selection-end-line="30" selection-end-column="1" />
+        <state relative-caret-position="204">
+          <caret line="12" column="51" selection-start-line="12" selection-start-column="51" selection-end-line="12" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$KOTLIN_BUNDLED$/lib/kotlin-stdlib-sources.jar!/kotlin/TypeAliases.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="15" selection-start-line="15" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kotlinCoroutines/ExceptionHandling.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="28" selection-start-column="2" selection-end-line="21" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kotlinCoroutines/ExceptionHandling2.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="7" lean-forward="true" selection-start-column="2" selection-end-line="28" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$KOTLIN_BUNDLED$/lib/kotlin-stdlib-sources.jar!/kotlin/Primitives.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="602" column="25" selection-start-line="602" selection-start-column="25" selection-end-line="602" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kotlinCoroutines/CancellationAndException.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="15" column="22" lean-forward="true" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kotlinCoroutines/CancellationAndException2.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="33" lean-forward="true" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
         </state>
       </provider>
     </entry>
