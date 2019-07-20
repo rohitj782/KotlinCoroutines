@@ -7,9 +7,7 @@
     <list default="true" id="6e1c186f-287b-4a79-af94-054af4df8496" name="Default Changelist" comment="Suspending Function">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/KoltinCoroutines/META-INF/KoltinCoroutines.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KoltinCoroutines/META-INF/KoltinCoroutines.kotlin_module" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KoltinCoroutines/kotlinCoroutines/Practice3Kt$generateResult$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KoltinCoroutines/kotlinCoroutines/Practice3Kt$main$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KoltinCoroutines/kotlinCoroutines/Practice3Kt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/kotlinCoroutines/Practice4.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/kotlinCoroutines/Practice4.kt" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -26,8 +24,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/kotlinCoroutines/Practice4.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="13" column="60" lean-forward="true" selection-start-column="2" selection-end-line="31" selection-end-column="3" />
+            <state relative-caret-position="461">
+              <caret line="31" column="1" selection-start-line="31" selection-start-column="1" selection-end-line="31" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -91,12 +89,6 @@
               <item name="KotlinCoroutines" type="b2602c69:ProjectViewProjectNode" />
               <item name="KotlinCoroutines" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="KotlinCoroutines" type="b2602c69:ProjectViewProjectNode" />
-              <item name="KotlinCoroutines" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="kotlinCoroutines" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -233,10 +225,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="1" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23600605" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2397882" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -245,7 +237,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3289689" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3289689" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39934534" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -405,8 +397,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/kotlinCoroutines/Practice4.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="13" column="60" lean-forward="true" selection-start-column="2" selection-end-line="31" selection-end-column="3" />
+        <state relative-caret-position="461">
+          <caret line="31" column="1" selection-start-line="31" selection-start-column="1" selection-end-line="31" selection-end-column="1" />
         </state>
       </provider>
     </entry>
