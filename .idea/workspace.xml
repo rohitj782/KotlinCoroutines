@@ -7,6 +7,15 @@
     <list default="true" id="6e1c186f-287b-4a79-af94-054af4df8496" name="Default Changelist" comment="Suspending Function">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/KoltinCoroutines/META-INF/KoltinCoroutines.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KoltinCoroutines/META-INF/KoltinCoroutines.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KoltinCoroutines/kotlinCoroutines/Practice4Kt$main$1$time$1$one$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KoltinCoroutines/kotlinCoroutines/Practice4Kt$main$1$time$1$three$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KoltinCoroutines/kotlinCoroutines/Practice4Kt$main$1$time$1$two$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KoltinCoroutines/kotlinCoroutines/Practice4Kt$main$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KoltinCoroutines/kotlinCoroutines/Practice4Kt$one$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KoltinCoroutines/kotlinCoroutines/Practice4Kt$three$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KoltinCoroutines/kotlinCoroutines/Practice4Kt$two$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KoltinCoroutines/kotlinCoroutines/Practice4Kt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/kotlinCoroutines/Debugging Coroutines.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/kotlinCoroutines/Debugging Coroutines.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/kotlinCoroutines/Practice4.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/kotlinCoroutines/Practice4.kt" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -20,17 +29,7 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/kotlinCoroutines/Practice4.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="461">
-              <caret line="31" column="1" selection-start-line="31" selection-start-column="1" selection-end-line="31" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -50,7 +49,6 @@
         <option value="$PROJECT_DIR$/src/kotlinCoroutines/CoroutinesPipelines.kt" />
         <option value="$PROJECT_DIR$/src/kotlinCoroutines/SuspendingFunctions.kt" />
         <option value="$PROJECT_DIR$/src/kotlinCoroutines/Dispatchers.kt" />
-        <option value="$PROJECT_DIR$/src/kotlinCoroutines/Debugging Coroutines.kt" />
         <option value="$PROJECT_DIR$/src/kotlinCoroutines/Coroutines Childrens.kt" />
         <option value="$PROJECT_DIR$/src/kotlinCoroutines/Coroutine Scope.kt" />
         <option value="$PROJECT_DIR$/src/kotlinCoroutines/ExceptionHandling.kt" />
@@ -61,10 +59,11 @@
         <option value="$PROJECT_DIR$/src/kotlinCoroutines/Practice2.kt" />
         <option value="$PROJECT_DIR$/src/kotlinCoroutines/Practice3.kt" />
         <option value="$PROJECT_DIR$/src/kotlinCoroutines/Practice4.kt" />
+        <option value="$PROJECT_DIR$/src/kotlinCoroutines/Debugging Coroutines.kt" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1382" />
@@ -78,6 +77,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -90,11 +90,16 @@
               <item name="KotlinCoroutines" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="KotlinCoroutines" type="b2602c69:ProjectViewProjectNode" />
+              <item name="KotlinCoroutines" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="kotlinCoroutines" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -127,15 +132,28 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.kotlinCoroutines.Practice4Kt">
-    <configuration name="kotlinCoroutines.CancellationAndException2Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Kotlin.Debugging_CoroutinesKt">
+    <configuration name="Debugging_CoroutinesKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="KoltinCoroutines" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="kotlinCoroutines.CancellationAndException2Kt" />
+      <option name="MAIN_CLASS_NAME" value="Debugging_CoroutinesKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="kotlinCoroutines.Debugging_CoroutinesKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="KoltinCoroutines" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="kotlinCoroutines.Debugging_CoroutinesKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -167,7 +185,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="kotlinCoroutines.Practice4Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="kotlinCoroutines.Practice4Kt" type="JetRunConfigurationType" factoryName="Kotlin" nameIsGenerated="true">
       <module name="KoltinCoroutines" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
@@ -195,11 +213,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.kotlinCoroutines.Practice4Kt" />
+        <item itemvalue="Kotlin.Debugging_CoroutinesKt" />
+        <item itemvalue="Kotlin.kotlinCoroutines.Debugging_CoroutinesKt" />
         <item itemvalue="Kotlin.kotlinCoroutines.Practice3Kt" />
         <item itemvalue="Kotlin.kotlinCoroutines.Practice2Kt" />
         <item itemvalue="Kotlin.kotlinCoroutines.Practice_1Kt" />
-        <item itemvalue="Kotlin.kotlinCoroutines.CancellationAndException2Kt" />
       </list>
     </recent_temporary>
   </component>
@@ -225,10 +243,9 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="0" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="1" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2397882" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24357034" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -246,6 +263,7 @@
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" weight="0.3289689" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.3289689" />
+      <window_info anchor="right" id="Coverage" side_tool="true" weight="0.32980332" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -260,6 +278,9 @@
     <MESSAGE value="Suspending Function" />
     <option name="LAST_COMMIT_MESSAGE" value="Suspending Function" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/KotlinCoroutines$kotlinCoroutines_Debugging_CoroutinesKt.ic" NAME="kotlinCoroutines.Debugging_CoroutinesKt Coverage Results" MODIFIED="1563673991819" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/kotlinCoroutines/CoroutinesPipelines.kt">
@@ -315,13 +336,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="175">
           <caret line="24" column="13" selection-start-column="2" selection-end-line="29" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/kotlinCoroutines/Debugging Coroutines.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="11" selection-start-column="2" selection-end-line="19" selection-end-column="3" />
         </state>
       </provider>
     </entry>
@@ -397,8 +411,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/kotlinCoroutines/Practice4.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="461">
-          <caret line="31" column="1" selection-start-line="31" selection-start-column="1" selection-end-line="31" selection-end-column="1" />
+        <state relative-caret-position="76">
+          <caret line="7" column="20" selection-start-column="2" selection-end-line="31" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kotlinCoroutines/Debugging Coroutines.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="38" column="39" lean-forward="true" selection-start-column="2" selection-end-line="39" selection-end-column="3" />
         </state>
       </provider>
     </entry>
